@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MotivationApp</string>
+    <string name="vamos_come_ar">Vamos Começar?</string>
+    <string name="qual_o_seu_nome">Qual o seu nome?</string>
+    <string name="salvar">Salvar</string>
+    <string name="ol_kotlin">Olá Bruno</string>
+    <string name="riscos_devem_ser_corridos_porque_o_maior_perigo_n_o_arriscarmos_nada">Riscos devem ser corridos, porque o maior perigo é não arriscarmos nada.</string>
+    <string name="nova_frase">Nova Frase</string>
+</resources>
